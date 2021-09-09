@@ -23,7 +23,7 @@ Be sure that all existing tests pass. The use of Minitest is intentional, please
 
 **Please DO NOT push your work to a public fork on GitHub!**
 
-Using the command below, create a git bundle of your changes and send it to ruby-code-test@paubox.com with the subject line `[PAUBOX_RUBY] <your name>`.
+Using the command below, create a git bundle of your changes and send it to chloe@paubox.com.
 
 ```bash
 $ git bundle create your_name.bundle master

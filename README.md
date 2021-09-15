@@ -21,6 +21,8 @@ Be sure that all existing tests pass. The use of Minitest is intentional, please
 
 `rails test`
 
+Don't forget to commit your changes locally with a descriptive message.
+
 **Please DO NOT push your work to a public fork on GitHub!**
 
 Using the command below, create a git bundle of your changes and send it to daniel@paubox.com, milton@paubox.com, rick@paubox.com, and chloe@paubox.com.
